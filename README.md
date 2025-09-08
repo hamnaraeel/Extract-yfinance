@@ -111,3 +111,7 @@ You can find more tickers on [Yahoo Finance](https://finance.yahoo.com/lookup/).
 - The `period` query parameter can be any valid yfinance period (e.g., `1d`, `5d`, `1mo`, `6mo`, `1y`, etc.).
 - All responses are in JSON format.
 - Only the specified fields are included in the output for clarity and efficiency.
+
+
+<!-- eaaedf15-564f-4d27-879b-311d1b329c9c
+16ceedfe-ed43-4a5a-ba60-1338e5dfc455 -->
